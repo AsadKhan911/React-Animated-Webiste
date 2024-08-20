@@ -4,7 +4,7 @@ A fully responsive property website built with ReactJS, featuring a sleek dark m
 
 ## Demo
 
-[View Live Demo](https://asadkhan911.github.io/React-Animated-Webiste/)
+[View Live Demo 👈](https://asadkhan911.github.io/React-Animated-Webiste/)
 
 ## Demo Pictures
 
@@ -15,9 +15,9 @@ A fully responsive property website built with ReactJS, featuring a sleek dark m
 </p>
 
 <p align="center">
-  <img src="assets/demo6.png" alt="Dark Mode Toggle" width="30%" />
-  <img src="assets/demo7.png" alt="Responsive Design" width="30%" />
-  <img src="assets/demo8.png" alt="Animations" width="30%" />
+  <img src="assets/demo10.png" alt="Dark Mode Toggle" width="30%" />
+  <img src="assets/demo8.png" alt="Responsive Design" width="30%" />
+  <img src="assets/demo9.png" alt="Animations" width="30%" />
 </p>
 
 ## Features
@@ -32,3 +32,23 @@ A fully responsive property website built with ReactJS, featuring a sleek dark m
 1. Clone the repo
    ```sh
    git clone https://github.com/your-username/property-website.git
+## Technologies Used
+
+- ReactJS
+- Framer Motion
+- CSS/SCSS
+- Responsive Design
+
+## Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+## License
+
+Distributed under the MIT License. See `LICENSE` for more information.
