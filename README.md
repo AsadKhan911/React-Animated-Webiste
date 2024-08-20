@@ -1,6 +1,6 @@
 # Property Website
 
-A fully responsive property website built with ReactJS, featuring a sleek dark mode with a draggable toggle, animations powered by Framer Motion, and a modern UI. The dark mode enhances the aesthetics, offering a beautiful browsing experience.
+A fully responsive property website built with ReactJS, featuring a sleek dark mode with a draggable toggle, animations powered by Framer Motion, and a modern UI. The dark mode enhances the aesthetics, offering a beautiful browsing experience. ✨
 
 ## Demo
 
@@ -8,10 +8,17 @@ A fully responsive property website built with ReactJS, featuring a sleek dark m
 
 ## Demo Pictures
 
-![Home Page Light Mode](demo-pic1-url)
-![Home Page Dark Mode](demo-pic2-url)
-![Property Listings](demo-pic3-url)
-![Dark Mode Toggle](demo-pic4-url)
+<p align="center">
+  <img src="assets/demo1.png" alt="Home Page Light Mode" width="30%" />
+  <img src="assets/demo2.png" alt="Home Page Dark Mode" width="30%" />
+  <img src="assets/demo3.png" alt="Property Listings" width="30%" />
+</p>
+
+<p align="center">
+  <img src="demo-pic4-url" alt="Dark Mode Toggle" width="30%" />
+  <img src="demo-pic5-url" alt="Responsive Design" width="30%" />
+  <img src="demo-pic6-url" alt="Animations" width="30%" />
+</p>
 
 ## Features
 
